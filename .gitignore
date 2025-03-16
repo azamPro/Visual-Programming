@@ -1,0 +1,3 @@
+# add the import ignore
+.vscode
+.idea
